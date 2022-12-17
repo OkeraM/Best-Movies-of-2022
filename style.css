@@ -81,6 +81,11 @@ a li {
     text-decoration: none;
 }
 
+li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
 a:hover {
     color: gold;
 }

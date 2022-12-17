@@ -52,6 +52,11 @@ header h2 {
     box-shadow: 5px 5px 5px;
 }
 
+.header-right li {
+   list-style-type: none;
+   text-decoration: none;
+}
+
 a {
     list-style-type: none;
     text-decoration: none;
@@ -60,6 +65,11 @@ a {
 }
 
 a li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li {
     list-style-type: none;
     text-decoration: none;
 }
